@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+My main profile is now here: [github.com/sgordeychuk](https://github.com/sgordeychuk)
 <!--
 **gordeychuk/gordeychuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
